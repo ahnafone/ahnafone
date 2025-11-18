@@ -2,7 +2,7 @@
 
 My name is Ahnaf and I'm a Web & App Developer based in Edmonton, Albera, Canada 🇨🇦 
 
-I have over 3 years of cummulative experience in Software Development 💻
+I have over 4 years of cummulative experience in Software Development 💻
 
 I completed my Bachelor of Science at the University of Alberta in Computer Science in 2024 🎓
 
