@@ -25,13 +25,13 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://recyclorobo.ai">
-        <img src="projects/recyclorobo.png" height="150px" width="100%" alt="RecycloRobo AI" style="border-radius: 8px; object-fit: contain;" />
+        <img src="projects/recyclorobo.png" height="150px" alt="RecycloRobo AI" style="border-radius: 8px; object-fit: contain;" />
       </a>
       <br/><b>Recyclorobo.ai</b>
     </td>
     <td width="50%" align="center">
       <a href="https://sarcomeredynamics.com/home">
-        <img src="projects/sarcomere-dynamics.png" height="150px" width="100%" alt="Sarcomere Dynamics" style="border-radius: 8px; object-fit: contain;" />
+        <img src="projects/sarcomere-dynamics.png" height="150px" alt="Sarcomere Dynamics" style="border-radius: 8px; object-fit: contain;" />
       </a>
       <br/><b>Sarcomere Dynamics</b>
     </td>
@@ -39,13 +39,13 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://timesheet-e8ebf.web.app">
-        <img src="projects/timesheet.png" height="150px" width="100%" alt="Timesheet App" style="border-radius: 8px; object-fit: contain;" />
+        <img src="projects/timesheet.png" height="150px"  alt="Timesheet App" style="border-radius: 8px; object-fit: contain;" />
       </a>
       <br/><b>Timesheet</b>
     </td>
     <td width="50%" align="center">
       <a href="https://platypustoys.com/home">
-        <img src="projects/platypus-toys.png" height="150px" width="100%" alt="Platypus Toys" style="border-radius: 8px; object-fit: contain;" />
+        <img src="projects/platypus-toys.png" height="150px" alt="Platypus Toys" style="border-radius: 8px; object-fit: contain;" />
       </a>
       <br/><b>Platypus Toys</b>
     </td>
