@@ -1,34 +1,135 @@
-# Hello 👋🏽
-
-My name is Ahnaf and I'm a Web & App Developer based in Edmonton, Albera, Canada 🇨🇦 
-
-I have over 4 years of cummulative experience in Software Development 💻
-
-I completed my Bachelor of Science at the University of Alberta in Computer Science in 2024 🎓
-
-In 2025, I started my company <a href="https://uttarasoftware.ca">Uttara Software</a> to accept any freelance and contract work sent my way. You can <a href="mailto:ahnaf@uttarasoftware.ca">email</a> me yours!
-
-###### &nbsp;
-
-### My Experience
-
-<div>
-    <p>🎨 Frontend (4+ years): <img height="16" src="icons/react.png"/> React, <img height="16" src="icons/nextjs.png"/> Next.js, <img height="16" src="icons/angular.gif"/> Angular, <img height="16" src="icons/vue.png"/> Vue, <img height="16" src="icons/php.svg"/> PHP, <img height="16" src="icons/css.png"/> CSS, <img height="16" src="icons/jquery.png"/> jQuery</p>
-    <p>🗄️ Backend (4+ years): <img height="16" src="icons/nodejs.svg"/> Node.js, Express.js, <img height="16" src="icons/flask.png"/> Flask, <img height="16" src="icons/django.png"/> Django, <img height="16" src="icons/functions.png"/> Firestore Functions</p>
-    <p>📱 Mobile Dev (1+ year): <img height="16" src="icons/flutter.png"/> Flutter, <img height="16" src="icons/react-native.png"/> React Native, <img height="16" src="icons/electron.png"/> Electron, <img height="16" src="icons/android-studio.png"/> Android Studio</p>
-    <p>🛢 Databases: <img height="16" src="icons/mysql.png"/> MySQL, <img height="16" src="icons/postgres.png"/> PostgreSQL, <img height="16" src="icons/mongodb.webp"/> MongoDB, <img height="16" src="icons/firestore.png"/> Firestore Firestore</p>
-    <p>🌐 Cloud: <img height="16" src="icons/aws.png"/> AWS, <img height="16" src="icons/gcp.png"/> GCP, <img height="16" src="icons/azure.png"/> Azure</p>
-    <p>🔧 Dev Tools: <img height="16" src="icons/stripe.png"/> Stripe, <img height="16" src="icons/sendgrid.png"/> SendGrid, <img height="16" src="icons/docker.png"/> Docker, <img height="16" src="icons/terraform.png"/> Terraform, <img height="16" src="icons/prisma.png"/> Prisma, <img height="16" src="icons/graphql.png"/> GraphQL</p>
-    <p>✨ UI/UX: <img height="16" src="icons/figma.svg"/> Figma, <img height="16" src="icons/photoshop.png"/> Photoshop, <img height="16" src="icons/procreate.png"/> Procreate</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F73663&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ahnaf!+👋🏽;Web+%26+App+Developer+💻;Based+in+Edmonton,+Canada+🇨🇦" alt="Typing SVG" />
+  
+  <p><b>Full-Stack Innovator & App Architect</b></p>
+  <p>Full-Stack Developer at <a href="https://recyclorobo.ai">Recyclorobo.ai</a> | Founder of <a href="https://uttarasoftware.ca">Uttara Software</a></p>
+  <p><i>5+ years of cumulative experience | Graduated with a BSc in Computer Science from the University of Alberta (2024)</i></p>
+  <p>
+    <a href="mailto:ahnafon3@gmail.com">
+      <img src="https://img.shields.io/badge/Email-ahnafon3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/ahnav/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://uttarasoftware.ca">
+      <img src="https://img.shields.io/badge/Company-Uttara_Software-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company Site" />
+    </a>
+  </p>
 </div>
 
-###### &nbsp;
+<br/>
 
-### How to reach me
+### 🌐 Websites I Created
 
-<div>
-    <p>✉️ Email: <a href="mailto:ahnaf@uttarasoftware.ca">ahnaf@uttarasoftware.ca</a></p>
-    <p><img width="16" height="16" src="icons/linkedin.png"/>&nbsp;LinkedIn: <a href="https://www.linkedin.com/in/ahnav/">linkedin.com/in/ahnav</a></p>
-    <p><img height="16" src="icons/ut-logo.png"/> Company Site: <a href="https://uttarasoftware.ca">uttarasoftware.ca</a></p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://recyclorobo.ai">
+        <img src="projects/recyclorobo.png" height="150px" width="100%" alt="RecycloRobo AI" style="border-radius: 8px; object-fit: contain;" />
+      </a>
+      <br/><b>Recyclorobo.ai</b>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://sarcomeredynamics.com/home">
+        <img src="projects/sarcomere-dynamics.png" height="150px" width="100%" alt="Sarcomere Dynamics" style="border-radius: 8px; object-fit: contain;" />
+      </a>
+      <br/><b>Sarcomere Dynamics</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://timesheet-e8ebf.web.app">
+        <img src="projects/timesheet.png" height="150px" width="100%" alt="Timesheet App" style="border-radius: 8px; object-fit: contain;" />
+      </a>
+      <br/><b>Timesheet</b>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://platypustoys.com/home">
+        <img src="projects/platypus-toys.png" height="150px" width="100%" alt="Platypus Toys" style="border-radius: 8px; object-fit: contain;" />
+      </a>
+      <br/><b>Platypus Toys</b>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+### 🛠️ My Tech Stack
+
+<table>
+  <tr>
+    <td width="20%" ><b>🎨 Frontend</b></td>
+    <td width="80%">
+      <img height="28" src="icons/react.png" title="React"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/angular.gif" title="Angular"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/laravel.png" title="Laravel"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/vue.png" title="Vue"/>
+    </td>
+  </tr>
+  <tr>
+    <td ><b>🗄️ Backend</b></td>
+    <td>
+      <img height="28" src="icons/nodejs.svg" title="Node.js"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/flask.png" title="Flask"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/express.png" title="Express.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td ><b>📱 Mobile</b></td>
+    <td>
+      <img height="28" src="icons/flutter.png" title="Flutter"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/react-native.png" title="React Native"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛢️ Databases</b></td>
+    <td>
+      <img height="28" src="icons/mysql.png" title="MySQL"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/postgres.png" title="PostgreSQL"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/mongodb.webp" title="MongoDB"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/firestore.png" title="Firestore"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Cloud</b></td>
+    <td>
+      <img height="28" src="icons/aws.png" title="AWS"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/gcp.png" title="GCP"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/azure.png" title="Azure"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔧 Tools</b></td>
+    <td>
+      <img height="28" src="icons/docker.png" title="Docker"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/stripe.png" title="Stripe"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/sendgrid.png" title="SendGrid"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/terraform.png" title="Terraform"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/prisma.png" title="Prisma"/> &nbsp;&nbsp;&nbsp;
+      <img height="28" src="icons/graphql.png" title="GraphQL"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahnafone&bg_color=0D1117&color=70b190&line=36f7ad&point=FFFFFF&hide_border=true" alt="Ahnaf's Activity Graph" />
+</p>
+
+<br/>
+
+### 🏆 Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahnafone&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=0D1117" alt="Ahnaf's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafone&layout=compact&theme=city_lights&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafone&theme=tokyonight&hide_border=true&background=0D1117" alt="Ahnaf's GitHub Streak" />
+</p>
+
+<br/>
