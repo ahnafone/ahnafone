@@ -116,7 +116,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahnafone&bg_color=0D1117&color=70b190&line=36f7ad&point=FFFFFF&hide_border=true" alt="Ahnaf's Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahnafone&theme=github_dark_dimmed" width="100%" alt="Ahnaf's Activity Graph" />
 </p>
 
 <br/>
