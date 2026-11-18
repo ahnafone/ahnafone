@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F73663&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ahnaf!+👋🏽;Web+%26+App+Developer+💻;Based+in+Edmonton,+Canada+🇨🇦" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F73663&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ahnaf!+👋🏽;Web+%26+App+Developer+💻;Surrey+/+Edmonton,+Canada+🇨🇦" alt="Typing SVG" />
   
   <p><b>Full-Stack Innovator & App Architect</b></p>
-  <p>Full-Stack Developer at <a href="https://recyclorobo.ai">Recyclorobo.ai</a> | Founder of <a href="https://uttarasoftware.ca">Uttara Software</a></p>
-  <p><i>5+ years of cumulative experience | Graduated with a BSc in Computer Science from the University of Alberta (2024)</i></p>
+  <p>Founder of <a href="https://uttarasoftware.ca">Uttara Software</a> | Looking for Full-Time roles!</p>
+  <p><i>5+ years of cumulative experience | BSc in Computer Science from the University of Alberta (2024)</i></p>
   <p>
     <a href="mailto:ahnafon3@gmail.com">
       <img src="https://img.shields.io/badge/Email-ahnafon3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
